@@ -15,6 +15,7 @@ This is a tool I wished I had when I was studying for the test myself. Test Prep
 ## Technology Stack ##
 
 * Swift
+* Cocoapods
 
 ## Screenshots ##
 
