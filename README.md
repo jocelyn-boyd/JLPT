@@ -12,6 +12,10 @@ This is a tool I wished I had when I was studying for the test myself. Test Prep
 * Sample data bank of questions from previous tests
 * Timed sections test sections 
 
+## Technology Stack ##
+
+* Swift
+
 ## Screenshots ##
 
 Coming soon ...
