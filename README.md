@@ -1,8 +1,8 @@
 # JLPT
 
-##Motivation##
+## Motivation ##
 
-##Features##
+## Features ##
 
-##Screenshots##
+## Screenshots ##
 
