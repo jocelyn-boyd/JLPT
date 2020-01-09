@@ -1,4 +1,4 @@
-# Japanese Language Proficiency Test Prep aka JLPT Prep
+# Japanese Language Proficiency Test Prep
 
 The app allows the user to practice and review test questions, so they can become familiar with the test format and gain a general self assessment of their skills to pinpoint any areas they’d like to strengthen. The user would also be given instant feedback without relying on any translation tools.
 
